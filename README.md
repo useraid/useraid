@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Aryan.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-22810b221/)
 
 **Talking about Personal Stuffs:**
