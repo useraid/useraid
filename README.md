@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Aryan.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
+I'm Aryan. <p align="right"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on **something cool.**
 - 🚀 I’m currently learning **Responsive Web Design.**
