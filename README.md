@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Responside Web Design
+- 🚀 I’m currently learning Responsive Web Design
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: useraid@pm.me
 
