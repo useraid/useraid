@@ -3,7 +3,7 @@ I'm Aryan. <p align="right"> <img src="https://komarev.com/ghpvc/?username=usera
 
 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently working on [Learning Resources Management Website.](https://useraid.github.io/)
+- 👨🏻‍💻 I’m currently working on [a few projects.](https://useraid.github.io/resources/currentProjects.html)
 - 🚀 I’m currently learning **Android Development.**
 - 💬 Ask me about anything, **I am happy to help.**
 - 📫 How to reach me: useraid@pm.me
