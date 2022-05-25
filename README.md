@@ -18,7 +18,7 @@ I'm Aryan. <p align="right"> <img src="https://komarev.com/ghpvc/?username=usera
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2df2ac41e1b8a1484be236c75e395981b31bfd670eff46b5c182ea0be9475310/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67" alt="proxmox" width="40" height="40"/> </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://zenk.it/sites/default/files/styles/large/public/field/image/Esxi-Logo.png?itok=UIj_PUGm" alt="ESXi" width="40" height="40"/> </a>  
-  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/VMware-icon.png" alt="ESXi" width="40" height="40"/> </a>   
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/VMware-icon.png" alt="Workstation Pro" width="40" height="40"/> </a>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
    
