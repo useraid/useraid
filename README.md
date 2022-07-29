@@ -3,7 +3,7 @@ I'm Aryan. A Electronics Student at TIET Patiala. <p align="right"> <img src="ht
 
 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently working on [a few projects.](https://useraid.github.io/resources/currentProjects.html)
+- 👨🏻‍💻 I’m currently working on [a few projects.](https://useraid.github.io/UseraidResources/resources/currentProjects.html)
 - 🚀 I’m currently learning **Android Development.**
 - 💬 Ask me about anything, **I am happy to help.**
 - 📫 How to reach me: useraid@pm.me
