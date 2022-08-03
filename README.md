@@ -35,7 +35,7 @@ I'm Aryan, a Electronics Student at TIET Patiala. <p align="right"> <img src="ht
 📈 **My GitHub Stats:**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=useraid&theme=radical&hide_border=true" alt="useraid" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=useraid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=useraid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
   
 </div>
