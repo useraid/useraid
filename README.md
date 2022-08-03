@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Aryan. A Electronics Student at TIET Patiala. <p align="right"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
+I'm Aryan, a Electronics Student at TIET Patiala. <p align="right"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
 
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on [a few projects.](https://useraid.github.io/UseraidResources/resources/currentProjects.html)
-- 🚀 I’m currently learning **Android Development.**
+- 🚀 I’m currently learning **Ansible.**
 - 💬 Ask me about anything, **I am happy to help.**
 - 📫 How to reach me: useraid@pm.me
 
@@ -34,11 +34,11 @@ I'm Aryan. A Electronics Student at TIET Patiala. <p align="right"> <img src="ht
 
 📈 **My GitHub Stats:**
 
-<p>
+<div align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=useraid&theme=radical&hide_border=true" alt="useraid" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=useraid&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
   
-</p>
+</div>
 
 
 
