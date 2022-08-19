@@ -41,5 +41,11 @@ I'm Aryan, a Electronics Student at TIET Patiala. <p align="right"> <img src="ht
   
 </div>
 
+**Socials:**
+
+<a href="https://hub.docker.com/u/useraid" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> </a> 
+<a href="https://www.linkedin.com/in/aryantiet/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> 
+<a href="https://tryhackme.com/p/useraid" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" /> </a> 
+<a href="mailto:useraid@pm.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white" /> </a> 
 
 
