@@ -4,7 +4,7 @@ I'm Aryan, a Electronics Student at TIET Patiala. <p align="right"> <img src="ht
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on [a few projects.](https://useraid.github.io/UseraidResources/resources/currentProjects.html)
-- 🚀 I’m currently learning **[buildyourownlinux](http://www.buildyourownlinux.com/)**
+- 🚀 I’m currently learning **[buildyourownlinux.](http://www.buildyourownlinux.com/)**
 - 💬 Ask me about anything, **I am happy to help.**
 - 📫 How to reach me: useraid@pm.me
 
@@ -14,7 +14,7 @@ I'm Aryan, a Electronics Student at TIET Patiala. <p align="right"> <img src="ht
 **Languages and Tools:**
 
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+   <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.github.com/actions" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93074700/187683327-cddc2c2b-2c39-4445-9852-5dcb10954a39.png" alt="Github Actions" width="40" height="40"/> </a> 
    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/2df2ac41e1b8a1484be236c75e395981b31bfd670eff46b5c182ea0be9475310/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67" alt="proxmox" width="40" height="40"/> </a>
