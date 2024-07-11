@@ -61,7 +61,7 @@ I'm Aryan, an Electronics Student at TIET Patiala. <p align="right"> <img src="h
 **Socials:**
 
 <a href="https://hub.docker.com/u/useraid" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> </a> 
-<a href="https://www.linkedin.com/in/aryantiet/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> 
+<a href="https://www.linkedin.com/in/useraid/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> 
 <a href="https://tryhackme.com/p/useraid" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" /> </a> 
 <a href="mailto:useraid@pm.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white" /> </a> 
 [![LeetCode user useraid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=useraid&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuseraid&logo=leetcode&logoColor=yellow)](https://leetcode.com/useraid/)
