@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aryan, an Electronics Student at TIET Patiala. <p align="right"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
+I'm Aryan, I work as a SDE at Amazon. <p align="right"> <img src="https://komarev.com/ghpvc/?username=useraid&label=Profile%20views&color=0e75b6&style=flat" alt="useraid" /> </p>
 
 **Talking about Personal Stuff:**
 
